@@ -29,12 +29,12 @@ int main(int argc, char **argv)
     cout << "\n \n";
     
     notafinal = media++;
-    cout << "Pre incremento: ";
+    cout << "Pos incremento: ";
     cout << notafinal;
     cout << "\n";
     
     notafinal = ++media;
-    cout << "Pos incremento: ";
+    cout << "Pre incremento: ";
     cout << notafinal;
     cout << "\n";
 
